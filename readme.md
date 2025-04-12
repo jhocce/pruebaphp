@@ -5,8 +5,8 @@
    Clona este repositorio en tu máquina local.
 
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
-   cd <NOMBRE_DEL_REPOSITORIO>
+   git clone https://github.com/jhocce/pruebaphp.git
+   cd pruebaphp
    ```
 
 2. **Construir y Levantar los Contenedores**
